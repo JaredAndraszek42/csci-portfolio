@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [The Paradox of Privacy and Anonymity](/Ethics%20Papers/The%20Paradox%20of%20Privacy%20and%20Anonymity%20Ethics%20Paper.docx)
 
--   **Class:**  
--   **Grade:**
+-   **Class:**  CSCI 415 - Algorithms
+-   **Grade:**  100
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Software Testing and Certifications - A Biblical and Ethical Look](/Ethics%20Papers/Software%20Testing%20and%20Certifications%20-%20A%20Biblical%20and%20Ethical%20Look.docx)
 
--   **Class:** 
--   **Grade:**
+-   **Class:**  CSCI 315 - Data Structures Analysis
+-   **Grade:**  100
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Engaging VS Distracting](/Ethics%20Papers/Engaging%20VS%20Distracting%20-%20Ethic%20Paper.docx)
 
--   **Class:** 
--   **Grade:**
+-   **Class:**  CSCI 235 - Object Oriented Programming
+-   **Grade:**  100
 
 ---
 
