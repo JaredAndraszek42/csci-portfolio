@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+HTML Parser
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: CSCI 315 - Data Structures** 
+-   **Grade: 80/100** 
+-   **Language(s): C++** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:JRAndraszek@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This program determines if an HTML page has balanced HTML tags and can determine how many webpages you can visit from a certain HTML page. The program determines the HTML tags by the "<" and ">" characters. So an opening tag would be ```<html>``` and a closing tag would be ```</html>``` with the "/" character after the opening character.
 
 ## How to compile and run the program
 
