@@ -19,7 +19,7 @@ This program takes a graph in a file and outputs the max flow using the Ford Ful
 
 To compile and run this program, you run the following code:
 
-```
+```bash
 g++ -Wextra -Wall MaxFlowGraph.cpp -o MaxFlow.out
 ./MaxFlow.out
 ```
