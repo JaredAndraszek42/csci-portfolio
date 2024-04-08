@@ -40,13 +40,13 @@ Ethics Papers
 ### [Software Testing and Certifications - A Biblical and Ethical Look](/Ethics%20Papers/Software%20Testing%20and%20Certifications%20-%20A%20Biblical%20and%20Ethical%20Look.pdf)
 
 -   **Class: CSCI 315 - Data Structures Analysis**  
--   **Grade: 100/100**  
+-   **Grade:                  100/100**  
 =======
 
 ### [Engaging VS Distracting](/Ethics%20Papers/Engaging%20VS%20Distracting%20-%20Ethic%20Paper.pdf)
 
 -   **Class: CSCI 235 - Object Oriented Programming**  
--   **Grade: 100/100**  
+-   **Grade: A**  
 =======
 
 ---
