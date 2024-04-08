@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](../index.md)
 
 HTML Parser
 ===============
@@ -38,17 +38,17 @@ This code will compile the program and only test these two webpages. You can run
 
 This program is a command-line program that outputs the webpages it parses as to show the user what files the program is checking. This is especially useful when using the makefile or testing all of the files in a folder (see fig. 1). Afterwards, it displays the header, and then the information about a specific page. However, when no files are checked (see fig. 2), it will only display the header. This way, it shows that no files were tested and the application ran successfully. However, if the program runs pages that do not exist, (see fig. 3), the program treats them as a file and will test them. However, the files will not open and thus, end that search early and return a visit count of 0. The program's default value for balanced is true, because the program checks to see if the HTML tag stack is empty, and since there were no HTML tags to check, it is empty and returns true.
 
-![screenshot](images/HTML-test_make_run.png)
+![screenshot](../images/HTML-test_make_run.png)
 Fig 1. Running the program using the command make run
 
-![screenshot](images/HTML-test_no_args.png)  
+![screenshot](../images/HTML-test_no_args.png)  
 Fig 2. Running the program with no arguments
 
-![screenshot](images/HTML-test_fake_pages.png)  
+![screenshot](../images/HTML-test_fake_pages.png)  
 Fig 3. Running the program with html pages that do not exist
 
 ## 3. Additional Considerations
 
 I recieved the initial starting code from Dr. Hayes. This starter code consisted of the main and trim functions in main.cpp and the function headers we should use for the initial three functions in html-parser.hpp.
 
-[Back to Portfolio](./index.md)
+[Back to Portfolio](../index.md)

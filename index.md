@@ -9,20 +9,20 @@ Programming Projects
 ---
 ### [HTML Parser | CSCI 315](./Project-Pages/project1.md)
 
-![Project 1 Thumbnail Name](images/HTML-test_make_run.png)
+![Project 1 Thumbnail Name](images/HTML-test_header.png)
 
 ---
-### [Max Flow Calculator | CSCI 415](project2)
+### [Max Flow Calculator | CSCI 415](./Project-Pages/project2.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/MaxFlow_header.png)
 
 ---
-### [Restaurant Menu | CSCI 325](project3)
+### [Restaurant Menu | CSCI 325](./Project-Pages/project3.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [Project 4 Title | CSCI 332](./Project-Pages/project4.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
