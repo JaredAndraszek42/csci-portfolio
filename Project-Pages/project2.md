@@ -26,7 +26,7 @@ g++ -Wextra -Wall MaxFlowGraph.cpp -o MaxFlow.out
 
 However, you will need a file with the graph following the set instructions (see fig. 1).
 ![screenshot](../images/Max-Flow_Instructions.png)
-![screenshot](../images/Max-Flow_Instructions.png)
+![screenshot](../images/Max-Flow_graph1.png)
 Fig1. Instructions to use for the graph file and an example graph.
 
 After you have your file ready, the program asks for the filename and then continues the program.
