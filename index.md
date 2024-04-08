@@ -7,19 +7,19 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:JRAndraszek@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [HTML Parser | CSCI 315](./Project-Pages/project1.md)
+### [HTML Parser | CSCI 315](./Project-Pages/HTML-Parser.md)
 
 ![Project 1 Thumbnail Name](images/HTML-test_header.png)
 
 ---
-### [Max Flow Calculator | CSCI 415](./Project-Pages/project2.md)
+### [Math Permutations | CSCI 415](./Project-Pages/Math-Permutations.md)
 
-![Project 2 Thumbnail Name](images/MaxFlow_header.png)
+![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Restaurant Menu | CSCI 325](./Project-Pages/project3.md)
+### [Max Flow Calculator | CSCI 325](./Project-Pages/Max-Flow.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/MaxFlow_header.png)
 
 ---
 ### [Project 4 Title | CSCI 332](./Project-Pages/project4.md)

@@ -45,7 +45,7 @@ Fig 2. Running the program with no arguments
 ![screenshot](../images/HTML-test_fake_pages.png)  
 Fig 3. Running the program with html pages that do not exist
 
-## 3. Additional Considerations
+## Additional Considerations
 
 I recieved the initial starting code from Dr. Hayes. This starter code consisted of the main and trim functions in main.cpp and the function headers we should use for the initial three functions in html-parser.hpp.
 
