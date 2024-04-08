@@ -27,13 +27,14 @@ g++ -Wextra -Wall MaxFlowGraph.cpp -o MaxFlow.out
 However, you will need a file with the graph following the set instructions (see fig. 1).
 ![screenshot](../images/Max-Flow_Instructions.png)
 ![screenshot](../images/Max-Flow_graph1.png)
+
 Fig1. Instructions to use for the graph file and an example graph.
 
 After you have your file ready, the program asks for the filename and then continues the program.
 
 ## UI Design
 
-For this program, there are two options available for UI, there is the default version and the testing version. At the beggining of the program, it will ask if you'd like to enter testing mode. This is available to see the behind the scenes and look at what paths the program tested (see fig. 2). If you only want to see the result, you do not have to enter testing mode (see fig. 3). 
+For this program, there are two options available for UI, there is the default version and the testing version. At the beggining of the program, it will ask if you'd like to enter testing mode. This is available to see the behind the scenes and look at what paths the program tested. The testing output also shows the graph and residual graph in the form of a matrix  (see fig. 2). If you only want to see the result, you do not have to enter testing mode (see fig. 3). 
 
 ![screenshot](../images/Max-Flow_testing.png)  
 Fig 2. Testing output
