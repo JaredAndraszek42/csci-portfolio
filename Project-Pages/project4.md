@@ -1,33 +1,40 @@
 [Back to Portfolio](../index.md)
 
-HTML Parser
+6x64 Bit Decoder
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: CSCI 330 - Computer Architecture** 
+-   **Grade: 87** 
+-   **Language(s): verilog** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:JRAndraszek@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
+In this project, I created a 6x64 bit decoder. So it takes a 6 bit input like "001011" and converts it into a 64 bit output where the 11th bit (001011 in binary equals 11 in decimal) is 1 and the rest are 0. We do this by taking the three most signifigant bits, and using a 3x8 decoder. That 3x8 decoder's output will then be the enable input for 8 more 3x8 decoders. However, instead of using the 3 most significant bits as input, but the 3 least signifigant bits. A logical diagram of the structure is shown in figure 1.
+
+![screenshot](../images/6x64_Decoder.png)
+Fig 1. Logical diagaram of a 6x64 Decoder
 
 ## How to compile and run the program
 
+To compile and run the code you need to run the following commands:
+```bash
+iverilog decoder_3x8.v decoder_6x64.v decoder_6x64_test.v -o decoder_6x64.out
+./decoder_6x64.out
+```
 
 ## UI Design
 
 
-![screenshot](../images/)
-Fig 1.
-
+<!-- 
 ![screenshot](../images/)  
 Fig 2.
 
 ![screenshot](../images/)  
 Fig 3.
 
-## 3. Additional Considerations
+## 3. Additional Considerations -->
 
 
 [Back to Portfolio](../index.md)
