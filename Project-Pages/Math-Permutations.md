@@ -6,7 +6,7 @@ Math Permutations
 -   **Class: CSCI 415 - Algorithms** 
 -   **Grade: 100/100** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/JaredAndraszek42/CSCI-415-Algorithms/tree/main/Project1)  
     (Please [email me](mailto:JRAndraszek@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -32,9 +32,10 @@ g++ -Wextra -Wall Permutations.cpp -o math.out
 In this program it outputs all unique solutions to the problem on their own lines.
 
 ![screenshot](../images/Math-Permutations_running.png)
+
 Fig 1. Running of the code
 
-## 3. Additional Considerations
+## Additional Considerations
 
 This code can be altered or changed for a different math problem or altering the size of the vector. This would require an adjustment of the code. There are comments that show where it should be altered and how.
 
