@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Cloud Storage Vulnerabilites](/Presentations/Cloud%20Storage%20Vulnerabilites.pptx)
+### [Cloud Storage Vulnerabilites](https://github.com/JaredAndraszek42/csci-portfolio/blob/master/Presentations/Cloud%20Storage%20Vulnerabilites.pdf)
 
 - **Class: CSCI 405 - Principles of Cyber Security**
 - **Grade: 100**
 
 
-### [First American Financial Data Leak](/Presentations/First%20American%20Financial%20Data%20Leak.pptx)
+### [First American Financial Data Leak](https://github.com/JaredAndraszek42/csci-portfolio/blob/master/Presentations/First%20American%20Financial%20Data%20Leak.pdf)
 
 - **Class: CSCI 419 - Database Management**
 - **Grade: 100**
