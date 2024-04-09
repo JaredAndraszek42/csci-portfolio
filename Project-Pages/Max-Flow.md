@@ -6,7 +6,7 @@ Max Flow Graphs
 -   **Class: CSCI 415 - Algorithms** 
 -   **Grade: 100/100** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [CSCI 415 - Algorithms](https://github.com/JaredAndraszek42/CSCI-415-Algorithms/tree/main/Project2)  
+-   **Source Code Repository:** [CSCI 415 - Algorithms](https://github.com/JaredAndraszek42/Max-Flow)  
     (Please [email me](mailto:JRAndraszek@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

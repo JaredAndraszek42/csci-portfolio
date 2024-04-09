@@ -6,7 +6,7 @@
 -   **Class: CSCI 330 - Computer Architecture** 
 -   **Grade: 87** 
 -   **Language(s): verilog** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Decoder-6x64](https://github.com/JaredAndraszek42/Decoder-6x64)  
     (Please [email me](mailto:JRAndraszek@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

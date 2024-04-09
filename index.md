@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/MaxFlow_header.png)
 
 ---
-### [6x64 Bit Decoder | CSCI 330](./Project-Pages/project4.md)
+### [6x64 Bit Decoder | CSCI 330](./Project-Pages/Decoder.md)
 
 ![Project 4 Thumbnail Name](images/6x64_Decoder.png)
 

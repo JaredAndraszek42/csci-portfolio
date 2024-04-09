@@ -6,7 +6,7 @@ HTML Parser
 -   **Class: CSCI 315 - Data Structures** 
 -   **Grade: 80/100** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [CSCI 315 - Data Structures](https://github.com/JaredAndraszek42/CSCI-315-Fall-2022/tree/master/project2)  
+-   **Source Code Repository:** [CSCI 315 - Data Structures](https://github.com/JaredAndraszek42/HTML-Parser)  
     (Please [email me](mailto:JRAndraszek@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

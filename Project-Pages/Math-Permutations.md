@@ -6,7 +6,7 @@ Math Permutations
 -   **Class: CSCI 415 - Algorithms** 
 -   **Grade: 100/100** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/JaredAndraszek42/CSCI-415-Algorithms/tree/main/Project1)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/JaredAndraszek42/Math-Permutations)  
     (Please [email me](mailto:JRAndraszek@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
