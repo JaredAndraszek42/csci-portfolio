@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/permutations-formula.png)
 
 ---
-### [Max Flow Calculator | CSCI 325](./Project-Pages/Max-Flow.md)
+### [Max Flow Calculator | CSCI 415](./Project-Pages/Max-Flow.md)
 
 ![Project 3 Thumbnail Name](images/MaxFlow_header.png)
 
